@@ -18,7 +18,7 @@ BC addon that enables an image preview of a section or link when the mouse is ho
 
 ## Resources
 
-1. [Nivo Slider Swipe Navigation for Touch Screens - Using Hammer.js by Will Rees](http://willrees.com/2013/02/make-your-nivo-slider-touch-capable/) -- this solution works but I don't like the swipe functionality.
+1. []()
 
 
 ## Some BigCommerce modules I made
@@ -30,6 +30,16 @@ BC addon that enables an image preview of a section or link when the mouse is ho
 * [BigCommerce Category Page 2nd Alternate Thumbnail](https://github.com/iamandrebulatov/BigCommerce-Category-Pages-2nd-Alternate-Thumbnail)
 * [BigCommerce Category Page Videos](https://github.com/iamandrebulatov/BigCommerce-Category-Page-Demo-Videos)
 * [BigCommerce Category Page Out of Stock Ribbons](https://github.com/iamandrebulatov/BigCommerce-Out-of-Stock-Category-Items)
+* [BigCommerce Category Page Staff Picks Selector](https://github.com/iamandrebulatov/BC-Staff-Picks-Selector)
+* [BigCommerce Shipping Options Description](https://github.com/iamandrebulatov/BC-Shipping-Options-Descriptions)
+* [BigCommerce Preview On MouseOver](https://github.com/iamandrebulatov/BC-Preview-On-MouseOver)
+* [BigCommerce-Carousel-Slider-Slide-Show-Custom]()
+* [BigCommerce-Welcoming-Age-Gate]()
+* [BigCommerce-360-Product-View]()
+* [BigCommerce-Product-Page-Image-Zoom]()
+* [BigCommerce-ThumbScroll]()
+* [BigCommerce Product Type Descriptions]()
+
 
 
 ## Support
